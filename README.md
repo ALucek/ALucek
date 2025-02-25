@@ -1,4 +1,4 @@
-Hi I'm Adam, [content creator](https://www.youtube.com/@AdamLucek) and [AI @ Cisco](https://www.linkedin.com/in/adamrlucek/)
+Hi I'm Adam, [content creator](https://www.youtube.com/@AdamLucek) and [AI @ Cisco](https://www.linkedin.com/in/adamrlucek/)!
 
 [lucek.ai](https://lucek.ai)
 <!---
