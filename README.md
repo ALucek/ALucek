@@ -1,7 +1,7 @@
-Hi I'm Adam, [content creator](https://www.youtube.com/@AdamLucek) and [Applied AI @ LangChain](https://www.linkedin.com/in/adamrlucek/)!
+Hi, I'm Adam!
 
-[lucek.ai](https://lucek.ai)
-<!---
-ALucek/ALucek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I make [content](https://www.youtube.com/@AdamLucek) for fun and do Applied AI at [LangChain](https://www.linkedin.com/in/adamrlucek/) professionally
+
+I like to write down my thoughts on my website [lucek.ai](https://lucek.ai) when I find the time
+
+Cheers!
